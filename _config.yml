@@ -1,10 +1,10 @@
-theme: minima
 title: Mathematics and Computing
 author: Dr Tom Wicks
 email: tom.wicks@nottingham.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   This site is a collection of all my notes on mathematics peppered with some
   computing.
+theme: minima
 
 # social links
 twitter_username: @tomJwicks
