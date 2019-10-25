@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This site is a collection of all my notes on mathematics peppered with some computing.
 
 # social links
-twitter_username: @tomJwicks
+twitter_username: tomJwicks
 github_username:  twicks2011
 
 show_excerpts: true # set to false to remove excerpts on the homepage
