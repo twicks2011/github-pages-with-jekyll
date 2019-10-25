@@ -1,4 +1,4 @@
-# Dr Tom Wicks
+# Mathematics and all that
 
 Welcome to my personal webpage, where you can find out more about me and my work in Mathematics Education.
 
